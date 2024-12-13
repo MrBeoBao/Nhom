@@ -29,6 +29,7 @@ public sealed class DXApplication1Module : ModuleBase {
     }
     public override void Setup(XafApplication application) {
         base.Setup(application);
-        // Manage various aspects of the application UI and behavior at the module level.
+
+	    
     }
 }
