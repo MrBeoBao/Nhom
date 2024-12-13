@@ -28,8 +28,6 @@ public sealed class DXApplication1Module : ModuleBase {
         return new ModuleUpdater[] { updater };
     }
     public override void Setup(XafApplication application) {
-        base.Setup(application);
-
-	    
+        base.Setup(application); 
     }
 }
