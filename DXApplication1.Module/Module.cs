@@ -31,3 +31,4 @@ public sealed class DXApplication1Module : ModuleBase {
         base.Setup(application); 
     }
 }
+
