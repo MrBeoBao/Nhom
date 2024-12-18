@@ -31,5 +31,5 @@ public sealed class DXApplication1Module : ModuleBase {
         base.Setup(application);
         // Manage various aspects of the application UI and behavior at the module level.
     }
-}
+}fsd
 
